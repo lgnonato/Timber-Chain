@@ -1,0 +1,285 @@
+id_product,product_name,product_type 
+5,Bloco,outros
+0,Aglomerado,final
+28,Compensado Aglomerado de 4 mm,final
+29,Compensado Laminado de 10 mm,final
+30,"Compensado Laminado de 10,1 mm",final
+31,"Compensado Laminado de 10,2 mm",final
+32,"Compensado Laminado de 10,3 mm",final
+33,"Compensado Laminado de 10,4 mm",final
+34,"Compensado Laminado de 10,5 mm",final
+35,"Compensado Laminado de 10,9 mm",final
+36,Compensado Laminado de 11 mm,final
+37,"Compensado Laminado de 11,1 mm",final
+65,"Compensado Laminado de 17,1 mm",final
+66,"Compensado Laminado de 17,5 mm",final
+67,"Compensado Laminado de 17,8 mm",final
+68,"Compensado Laminado de 17,9 mm",final
+69,Compensado Laminado de 18 mm,final
+70,"Compensado Laminado de 18,2 mm",final
+71,"Compensado Laminado de 18,9 mm",final
+72,Compensado Laminado de 19 mm,final
+73,"Compensado Laminado de 2,8 mm",final
+74,"Compensado Laminado de 2,9 mm",final
+75,Compensado Laminado de 20 mm,final
+76,Compensado Laminado de 21 mm,final
+77,Compensado Laminado de 22 mm,final
+78,Compensado Laminado de 23 mm,final
+79,"Compensado Laminado de 23,5 mm",final
+80,"Compensado Laminado de 23,8 mm",final
+81,Compensado Laminado de 24 mm,final
+82,Compensado Laminado de 25 mm,final
+83,Compensado Laminado de 26 mm,final
+84,Compensado Laminado de 27 mm,final
+85,Compensado Laminado de 28 mm,final
+86,Compensado Laminado de 29 mm,final
+205,Madeira Serrada Aplainada 4 Faces,final
+206,Madeira Serrada em Bruto,final
+207,Madeira serrada (caibro),final
+208,Madeira serrada (prancha),final
+209,Madeira serrada (pranchão desdobrado),final
+210,Madeira serrada (tábua),final
+211,Madeira serrada (vareta),final
+212,Madeira serrada (viga),final
+213,Madeira serrada (vigota),final
+214,Manta sarrafeada,final
+228,Piso Engenheirado,final
+229,Pisos e Assoalhos,final
+231,Porta Lisa Maciça,final
+232,Portal,final
+233,Portal ou Batente,final
+111,"Compensado Laminado de 6,4 mm",final
+112,"Compensado Laminado de 6,5 mm",final
+113,"Compensado Laminado de 6,8 mm",final
+114,Compensado Laminado de 7 mm,final
+115,"Compensado Laminado de 7,1 mm",final
+116,"Compensado Laminado de 7,2 mm",final
+117,"Compensado Laminado de 7,5 mm",final
+118,"Compensado Laminado de 7,9 mm",final
+119,Compensado Laminado de 8 mm,final
+120,"Compensado Laminado de 8,2 mm",final
+121,"Compensado Laminado de 8,3 mm",final
+122,"Compensado Laminado de 8,4 mm",final
+123,"Compensado Laminado de 8,5 mm",final
+124,"Compensado Laminado de 8,7 mm",final
+125,"Compensado Laminado de 8,8 mm",final
+126,Compensado Laminado de 9 mm,final
+144,Compensado Sarrafeado de 14 mm,final
+145,"Compensado Sarrafeado de 14,3 mm",final
+146,"Compensado Sarrafeado de 14,9 mm",final
+147,Compensado Sarrafeado de 15 mm,final
+148,Compensado Sarrafeado de 16 mm,final
+149,Compensado Sarrafeado de 17 mm,final
+150,"Compensado Sarrafeado de 17,5 mm",final
+151,Compensado Sarrafeado de 18 mm,final
+152,Compensado Sarrafeado de 19 mm,final
+153,Compensado Sarrafeado de 20 mm,final
+154,Compensado Sarrafeado de 21 mm,final
+155,Compensado Sarrafeado de 22 mm,final
+156,Compensado Sarrafeado de 23 mm,final
+157,Compensado Sarrafeado de 24 mm,final
+158,Compensado Sarrafeado de 25 mm,final
+159,Compensado Sarrafeado de 28 mm,final
+160,Compensado Sarrafeado de 30 mm,final
+161,Compensado Sarrafeado de 35 mm,final
+163,Compensado Sarrafeado de 48 mm,final
+164,Compensado Sarrafeado de 50 mm,final
+165,Compensado Sarrafeado de 8 mm,final
+166,Compensado Sarrafeado de espessura indefinida,final
+190,Lâmina Desenrolada,final
+191,Lâmina Faqueada,final
+192,Madeira Aplainada 2 Faces (S2S),final
+193,Madeira Aplainada 4 Faces (S4S),final
+194,Madeira Beneficiada,final
+195,Madeira Beneficiada Curta,final
+196,Madeira Industrializada de Resíduo,final
+197,Madeira Industrilizada de Resíduo (caibrinho),final
+198,Madeira Industrilizada de Resíduo (ripa),final
+199,Madeira Industrilizada de Resíduo (short ou sarrafo),final
+200,Madeira Laminada Faqueada,final
+201,Madeira Laminada Torneada,final
+202,Madeira Produzida Serrada,final
+8,Bricket,residuos energeticos
+6,"Bloco, quadrado ou filé",outros
+7,Bolacha de Madeira,outros
+141,"Compensado Sarrafeado de 11,8 mm",final
+180,Forro (Lambril),final
+181,Forro (lambril),final
+128,"Compensado Laminado de 9,3 mm",final
+129,"Compensado Laminado de 9,5 mm",final
+130,"Compensado Laminado de 9,6 mm",final
+131,"Compensado Laminado de 9,8 mm",final
+132,"Compensado Laminado de 9,9 mm",final
+133,Compensado Laminado de espessura indefinida,final
+134,Compensado OSB de 12 mm,final
+135,Compensado OSB de 14 mm,final
+167,Decking,final
+127,"Compensado Laminado de 9,2 mm",final
+136,Compensado OSB de 15 mm,final
+137,Compensado OSB de 8 mm,final
+138,Compensado OSB de espessura indefinida,final
+139,Compensado Sarrafeado de 10 mm,final
+140,Compensado Sarrafeado de 11 mm,final
+142,"Compensado Sarrafeado de 11,9 mm",final
+143,Compensado Sarrafeado de 12 mm,final
+162,Compensado Sarrafeado de 4 mm,final
+203,Madeira Serrada,final
+204,Madeira Serrada Aplainada 2 Faces,final
+236,Prancha,final
+237,Pranchão,final
+238,Produto acabado,final
+257,Ripa,final
+258,Ripa Curta,final
+259,Ripas,final
+260,Rodapé,final
+262,Sarrafo,final
+263,Sarrafo Curto,final
+264,Sarrafos,final
+176,Ferro Gusa,residuos energeticos
+184,Lascas,residuos energeticos
+185,Lascas (st),residuos energeticos
+186,Lascas e Achas,residuos energeticos
+187,Lenha,residuos energeticos
+188,Lenha de espécies exóticas,residuos energeticos
+189,Lenha m3,residuos energeticos
+239,Rachas,residuos energeticos
+242,Resíduo,residuos energeticos
+265,Serragem,residuos energeticos
+215,Mourões,outros
+216,Mourões (st),outros
+217,Mourões ou Moirões,outros
+169,Dormente,outros
+170,Dormente serrada,outros
+171,Escoramento,outros
+172,Escoramento (st),outros
+173,Escoramentos,outros
+174,Estacas,outros
+177,Filé,outros
+183,Lapidados,outros
+220,Palanques Roliços,outros
+221,Palanques roliços,outros
+222,Palanques roliços (st),outros
+234,Poste,outros
+235,Postes não Imunizados,outros
+261,Rolete,outros
+24,Cipó,nao_madeireiro
+25,Cipós,nao_madeireiro
+175,Estipe,nao_madeireiro
+178,Flores,nao_madeireiro
+179,Folhas,nao_madeireiro
+182,Frutos,nao_madeireiro
+218,Muda,nao_madeireiro
+219,Mudas,nao_madeireiro
+223,Palmito (kg),nao_madeireiro
+224,Palmito Industrializado,nao_madeireiro
+225,Palmito in Natura,nao_madeireiro
+226,Palmito in natura,nao_madeireiro
+227,Palmito industrializado,nao_madeireiro
+230,Planta viva,nao_madeireiro
+240,Raizes,nao_madeireiro
+241,Raízes,nao_madeireiro
+270,Toras de Madeira Produzida,nao_madeireiro
+282,Xaxim (st),nao_madeireiro
+283,Óleos Essenciais,nao_madeireiro
+268,Tora,tora
+269,Toras de Madeira Nativa,tora
+267,Tacos,final
+273,Tábua,final
+274,Tábua Aplainada 2 Faces (S2S),final
+275,Tábua Aplainada 4 Faces (S4S),final
+276,Tábua Curta,final
+278,Viga,final
+279,Viga Curta,final
+280,Vigota,final
+281,Vigota Curta,final
+1,Alisar,final
+2,Aproveitamento de Lâmina Faqueada,final
+3,Aproveitamento de Lâmina Torneada,final
+4,Aproveitamentos de Madeira,final
+10,Caibrinhos,final
+11,Caibro,final
+12,Caibro Curto,final
+13,Caibro curto,final
+22,Chapa OSB,final
+23,Chapa de fibra,final
+26,Compensado,final
+27,Compensado Aglomerado de 15 mm,final
+271,Toretes,outros
+272,Toretes (st),outros
+277,Vara,outros
+168,Desfolhado,final
+38,"Compensado Laminado de 11,4 mm",final
+39,"Compensado Laminado de 11,5 mm",final
+40,"Compensado Laminado de 11,7 mm",final
+41,"Compensado Laminado de 11,8 mm",final
+42,"Compensado Laminado de 11,9 mm",final
+43,Compensado Laminado de 12 mm,final
+44,"Compensado Laminado de 12,1 mm",final
+45,"Compensado Laminado de 12,2 mm",final
+46,"Compensado Laminado de 12,4 mm",final
+47,"Compensado Laminado de 12,5 mm",final
+48,Compensado Laminado de 13 mm,final
+49,"Compensado Laminado de 13,1 mm",final
+50,"Compensado Laminado de 13,2 mm",final
+51,"Compensado Laminado de 13,5 mm",final
+52,"Compensado Laminado de 13,8 mm",final
+53,Compensado Laminado de 14 mm,final
+54,"Compensado Laminado de 14,3 mm",final
+9,Briquete,residuos energeticos
+14,Carvão,residuos energeticos
+15,Carvão Vegetal,residuos energeticos
+16,Carvão Vegetal de resíduo,residuos energeticos
+17,Carvão vegetal de espécies exóticas,residuos energeticos
+18,Casca,residuos energeticos
+19,Cascas,residuos energeticos
+20,Cavaco,residuos energeticos
+21,Cavacos,residuos energeticos
+243,Resíduo Fonte de Energia,residuos energeticos
+244,Resíduo da Indústria Madeireira para Fins Energéticos,residuos energeticos
+245,Resíduo da Indústria Madeireira para Fins de Aproveitamento Industrial,residuos energeticos
+246,Resíduo de Lâmina Faqueada,residuos energeticos
+247,Resíduo de Lâmina Torneada,residuos energeticos
+248,Resíduo de Serraria,residuos energeticos
+55,"Compensado Laminado de 14,5 mm",final
+56,"Compensado Laminado de 14,9 mm",final
+57,Compensado Laminado de 15 mm,final
+58,"Compensado Laminado de 15,1 mm",final
+59,"Compensado Laminado de 15,5 mm",final
+60,Compensado Laminado de 16 mm,final
+61,"Compensado Laminado de 16,1 mm",final
+62,"Compensado Laminado de 16,3 mm",final
+63,"Compensado Laminado de 16,6 mm",final
+64,Compensado Laminado de 17 mm,final
+249,Resíduo de lâmina,residuos energeticos
+250,Resíduo para Aproveitamento Industrial,residuos energeticos
+251,Resíduo para Fins Energéticos,residuos energeticos
+87,Compensado Laminado de 3 mm,final
+88,"Compensado Laminado de 3,5 mm",final
+89,"Compensado Laminado de 3,6 mm",final
+90,"Compensado Laminado de 3,9 mm",final
+91,Compensado Laminado de 30 mm,final
+92,Compensado Laminado de 32 mm,final
+93,Compensado Laminado de 33 mm,final
+94,Compensado Laminado de 34 mm,final
+95,Compensado Laminado de 35 mm,final
+96,Compensado Laminado de 36 mm,final
+97,Compensado Laminado de 4 mm,final
+98,"Compensado Laminado de 4,1 mm",final
+99,"Compensado Laminado de 4,5 mm",final
+100,"Compensado Laminado de 4,7 mm",final
+101,"Compensado Laminado de 4,8 mm",final
+102,Compensado Laminado de 40 mm,final
+103,Compensado Laminado de 5 mm,final
+104,"Compensado Laminado de 5,1 mm",final
+105,"Compensado Laminado de 5,2 mm",final
+106,"Compensado Laminado de 5,4 mm",final
+107,"Compensado Laminado de 5,5 mm",final
+108,Compensado Laminado de 50 mm,final
+109,Compensado Laminado de 6 mm,final
+110,"Compensado Laminado de 6,1 mm",final
+252,Resíduo para miolo de compensado,residuos energeticos
+253,Resíduo – Miolo de Compensado,residuos energeticos
+254,Resíduos Florestais,residuos energeticos
+255,Resíduos Fonte de Energia,residuos energeticos
+256,Resíduos para Fins Energéticos,residuos energeticos
+266,Sobras e Aparas de Madeira,residuos energeticos

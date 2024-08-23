@@ -1,0 +1,328 @@
+id_wood,scientific_name,popular_name
+7303,Handroanthus incanus,Ipê-amarelo
+7304,Handroanthus serratifolius,ipê-amarelo
+7305,Handroanthusalbus,Ipê
+7307,Handroanthusimpetiginosum,Ipêrosa
+7308,Handroanthusimpetiginosum,Ipêroxo
+7309,Handroanthusimpetiginosum,ipêroxo
+7310,Handroanthusincanus,Ipêamarelo
+7311,Handroanthusochraceus,ipêfolhaamarela
+7312,Handroanthusochraceus,Ipêfolhaamarela
+7313,Handroanthusserratifolius,Ipê
+7314,Handroanthusserratifolius,Ipêamarelo
+7315,Handroanthusserratifolius,Ipêovodemacuco
+7316,Handroanthusserratifolius,ipêamarelo
+7317,Handroanthusserratifolius,Paudarcoamarelo
+15230,Tabebuia,Ipê
+15231,Tabebuia alba (Cham.) Sandwith,Aipê
+15232,Tabebuia alba (Cham.) Sandwith,Ipê-amarelo
+15233,Tabebuia alba (Cham.) Sandwith,Taipoca
+15234,Tabebuia alba (Cham.) Sandwith,Ipê
+15235,Tabebuia angustata Britten,Ipê
+15236,Tabebuia aquatilis Sprague & Sandwith,Arapari
+15237,Tabebuia aquatilis Sprague & Sandwith,Guarapariba
+15238,Tabebuia aquatilis Sprague & Sandwith,Tatajupoca
+15239,Tabebuia aurea,Ipê
+15240,Tabebuia aurea (Silva Manso) Benth. & Hook.f. ex S.Moore,Ipê-amarelo
+15241,Tabebuia aurea (Silva Manso) Benth. & Hook.f. ex S.Moore,Pau-darco
+15242,Tabebuia aurea (Silva Manso) Benth. & Hook.f. ex S.Moore,Ipê-caxeta
+15243,Tabebuia barbata (E.Mey.) Sandwith,Ipê
+15244,Tabebuia capitata (Bureau & K.Schum.) Sandwith,Ipê
+15245,Tabebuia capitata (Bureau & K.Schum.) Sandwith,Pau-darco
+15246,Tabebuia caraiba (Mart.) Bureau,Pau-darco-do-campo
+15247,Tabebuia caraiba (Mart.) Bureau,Ipê-amarelo-do-cerrado
+15248,Tabebuia cassinoides (Lam.) DC.,Caxeta
+15249,Tabebuia cassinoides (Lam.) DC.,Caxeta-vermelha
+15250,Tabebuia cassinoides (Lam.) DC.,Ipê
+15251,Tabebuia chrysantha,Ipê
+15252,Tabebuia chrysantha (Jacq.) Nichols.,Pau-darco
+15253,Tabebuia chrysantha (Jacq.) Nichols.,Ipê-amarelo
+15254,Tabebuia chrysantha (Jacq.) Nichols. subsp. chrysantha,Pau-darco
+15255,Tabebuia chrysantha (Jacq.) Nichols. subsp. chrysantha,Ipê-amarelo
+15256,Tabebuia chrysotricha (Mart. ex DC.) Standl.,Ipê-roxo
+15257,Tabebuia chrysotricha (Mart. ex DC.) Standl.,Ipê
+15258,Tabebuia chrysotricha (Mart. ex DC.) Standl.,Ipê-amarelo
+15259,Tabebuia heptaphylla (Vell.) Toledo,Ipê
+15260,Tabebuia heptaphylla (Vell.) Toledo,Guaraiba
+15261,Tabebuia heptaphylla (Vell.) Toledo,Ipê-roxo
+15262,Tabebuia heptaphylla (Vell.) Toledo,Pau-darco-roxo
+15263,Tabebuia heptaphylla (Vell.) Toledo,Cabroé
+15264,Tabebuia impetiginosa (Mart. ex DC.) Standl.,Ipeúva-roxa
+15265,Tabebuia impetiginosa (Mart. ex DC.) Standl.,Ipê-comum
+15266,Tabebuia impetiginosa (Mart. ex DC.) Standl.,Ipê-roxo
+15267,Tabebuia impetiginosa (Mart. ex DC.) Standl.,Ipê
+15268,Tabebuia impetiginosa (Mart. ex DC.) Standl.,Ipeúna
+15269,Tabebuia impetiginosa (Mart. ex DC.) Standl.,Peúva-roxa
+15270,Tabebuia impetiginosa (Mart. ex DC.) Standl.,Ipê-de-flor-roxa
+15271,Tabebuia impetiginosa (Mart. ex DC.) Standl.,Ipê-rosa
+15272,Tabebuia impetiginosa (Mart. ex DC.) Standl.,Ipê-preto
+15273,Tabebuia impetiginosa (Mart. ex DC.) Standl.,Cabroé
+15274,Tabebuia incana A.Gentry,Ipê-amarelo
+15275,Tabebuia ochracea (Cham.) Standl.,Ipê
+15276,Tabebuia pulcherrima Sandwith,Aipê
+15277,Tabebuia pulcherrima Sandwith,Ipê
+15278,Tabebuia rigida Dutra,Ipê
+15279,Tabebuia roseo-alba (Ridley) Sandwith,Ipê
+15280,Tabebuia roseo-alba (Ridley) Sandwith,Pau-darco
+15281,Tabebuia serratifolia,Ipê
+15282,Tabebuia serratifolia (Vahl) Nichols.,Ipeúva
+15283,Tabebuia serratifolia (Vahl) Nichols.,Morototó
+15284,Tabebuia serratifolia (Vahl) Nichols.,Pau-darco
+15285,Tabebuia serratifolia (Vahl) Nichols.,Quinaquina
+15286,Tabebuia serratifolia (Vahl) Nichols.,Ipê
+15287,Tabebuia serratifolia (Vahl) Nichols.,Ipê-tabaco
+15288,Tabebuia serratifolia (Vahl) Nichols.,Ipê-dente-de-cão
+15289,Tabebuia serratifolia (Vahl) Nichols.,Ipeúna
+15290,Tabebuia serratifolia (Vahl) Nichols.,Pau-darco-amarelo
+15291,Tabebuia serratifolia (Vahl) Nichols.,Ipê-amarelo
+15292,Tabebuia serratifolia (Vahl) Nichols.,Ipê-preto
+15293,Tabebuia serratifolia (Vahl) Nichols.,Canela-mandioca
+15294,Tabebuia serratifolia (Vahl) Nichols.,Ipê-roxo
+15295,Tabebuia sp,Ipê-amarelo
+15296,Tabebuia sp,Ipê amarelo
+15297,Tabebuia sp,Ipê-roxo
+15298,Tabebuia sp,Ipê
+15299,Tabebuia sp,Ipê-tabaco
+15300,Tabebuia sp.,Pau-darco-pardo
+15301,Tabebuia sp.,Ipê-ovo-de-macaco
+15302,Tabebuia sp.,Peroba
+15303,Tabebuia sp.,Ipê
+15304,Tabebuia sp.,Ipê-roxo
+15305,Tabebuia umbellata (Sond.) Sandwith,Ipê-amarelo
+15306,Tabebuia umbellata (Sond.) Sandwith,Ipê
+15307,Tabebuia umbellata (Sond.) Sandwith,Ipê-do-brejo
+15308,Tabebuia vellosoi Toledo,Ipê
+15309,Tabebuia vellosoi Toledo,Ipê-roxo
+15310,Tabebuia vellosoi Toledo,Ipê-comum
+15311,Tabebuiaalba,Ipêouro
+15312,Tabebuiaalba,Ip
+15313,Tabebuiaalba,Aip
+15314,Tabebuiaalba,Ipêcascudo
+15315,Tabebuiaalba,Ipamarelo
+15316,Tabebuiaalba,Ipêamarelo
+15317,Tabebuiaalba,Ipêtabaco
+15318,Tabebuiaalba,Ipezeiro
+15319,Tabebuiaalba,Ipêdaserra
+15320,Tabebuiaalba,Paudarcoamarelo
+15321,Tabebuiaalba,Taipoca
+15322,Tabebuiaalba,Ipêamarelodaserra
+15323,Tabebuiaalba,Piúnadocampo
+15324,Tabebuiaalba,Ipê
+15325,Tabebuiaalba,Ipêdocerrado
+15326,Tabebuiaalba,Aipê
+15327,Tabebuiaangustata,Ipê
+15328,Tabebuiaaquatilis,Tatajupoca
+15329,Tabebuiaaquatilis,Arapari
+15330,Tabebuiaaquatilis,Guarapariba
+15331,Tabebuiaaquatilis,Guaraparaíba
+15332,Tabebuiaaurea,Craibeira
+15333,Tabebuiaaurea,Ipê
+15334,Tabebuiaaurea,Ipêamarelo
+15335,Tabebuiaaurea,Caroba
+15336,Tabebuiaaurea,Paratudo
+15337,Tabebuiaaurea,Caxeta
+15338,Tabebuiaaurea,Ipêcaxeta
+15339,Tabebuiaaurea,Ipêbranco
+15340,Tabebuiaaurea,Craíba
+15341,Tabebuiaaurea,Ipêdocerrado
+15342,Tabebuiaaurea,Ip
+15343,Tabebuiaaurea,Caraíba
+15344,Tabebuiaaurea,Ipêamarelodocerrado
+15345,Tabebuiaaurea,Caraúba
+15346,Tabebuiaaurea,Paudarco
+15347,Tabebuiaaurea,Guaraíba
+15348,Tabebuiaaurea,Carobadocampo
+15349,Tabebuiaavellanedae,Ipê
+15350,Tabebuiaavellanedae,IpêdaVarzea
+15351,Tabebuiaavellanedae,Ipêroxo
+15352,Tabebuiaavellanedae,Ipêamarelo
+15353,Tabebuiabarbata,Guarapariba
+15354,Tabebuiabarbata,Capitari
+15355,Tabebuiabarbata,Ipê
+15356,Tabebuiabarbata,Paudarcodoigapó
+15357,Tabebuiabarbata,Ip
+15358,Tabebuiabarbata,Guirapariba
+15359,Tabebuiacapitata,Ip
+15360,Tabebuiacapitata,Paudarco
+15361,Tabebuiacapitata,Ipê
+15362,Tabebuiacaraiba,Paudarcodocampo
+15363,Tabebuiacaraiba,Ipêamarelodocerrado
+15364,Tabebuiacaraiba,Ipamarelodocerrado
+15365,Tabebuiacaraiba,Paratudodocampo
+15366,Tabebuiacaraiba,Ubirapariba
+15367,Tabebuiacassinoides,Caxeta
+15368,Tabebuiacassinoides,Caxetabranca
+15369,Tabebuiacassinoides,Paudarcoamarelo
+15370,Tabebuiacassinoides,Ip
+15371,Tabebuiacassinoides,Tabebuia
+15372,Tabebuiacassinoides,Ipê
+15373,Tabebuiachrysantha,Ipamarelo
+15374,Tabebuiachrysantha,Paudarco
+15375,Tabebuiachrysantha,Ipêamarelo
+15376,Tabebuiachrysantha,Ipê
+15377,Tabebuiachrysotricha,Ip
+15378,Tabebuiachrysotricha,Ipêtabaco
+15379,Tabebuiachrysotricha,Ipê
+15380,Tabebuiachrysotricha,Ipêamarelocascudo
+15381,Tabebuiachrysotricha,Ipêamarelo
+15382,Tabebuiachrysotricha,Paudarcoamarelo
+15383,Tabebuiachrysotricha,Ipêroxo
+15384,Tabebuiachrysotricha,Aipê
+15385,Tabebuiaheptaphylla,Ipêroxo
+15386,Tabebuiaheptaphylla,Ipêuva
+15387,Tabebuiaheptaphylla,Iproxo
+15388,Tabebuiaheptaphylla,Ipeúna
+15389,Tabebuiaheptaphylla,Ipêcabroé
+15390,Tabebuiaheptaphylla,Ipêroxodesetefolhas
+15391,Tabebuiaheptaphylla,Ipê
+15392,Tabebuiaheptaphylla,Ipêrosa
+15393,Tabebuiaheptaphylla,Ipêpreto
+15394,Tabebuiaheptaphylla,Cabroé
+15395,Tabebuiaheptaphylla,Guaraiba
+15396,Tabebuiaheptaphylla,Ip
+15397,Tabebuiaheptaphylla,Paudarcoroxo
+15398,Tabebuiaheptaphylla,Peúva
+15399,Tabebuiaheptaphylla,Paudarco
+15400,Tabebuiaheptaphylla,Piúva
+15401,Tabebuiaimpetiginosa,Ipê
+15402,Tabebuiaimpetiginosa,Ipêdeminas
+15403,Tabebuiaimpetiginosa,Lapacho
+15404,Tabebuiaimpetiginosa,Cabroé
+15405,Tabebuiaimpetiginosa,Paucachorro
+15406,Tabebuiaimpetiginosa,Peúvaroxa
+15407,Tabebuiaimpetiginosa,Ipêrosa
+15408,Tabebuiaimpetiginosa,Ipêmirim
+15409,Tabebuiaimpetiginosa,Ip
+15410,Tabebuiaimpetiginosa,Ipêrosado
+15411,Tabebuiaimpetiginosa,Paudarco
+15412,Tabebuiaimpetiginosa,Ipêtabaco
+15413,Tabebuiaimpetiginosa,Peúva
+15414,Tabebuiaimpetiginosa,Piúna
+15415,Tabebuiaimpetiginosa,Piúva
+15416,Tabebuiaimpetiginosa,Ipêdeflorroxa
+15417,Tabebuiaimpetiginosa,Ipeúvaroxa
+15418,Tabebuiaimpetiginosa,Ipevaroxa
+15419,Tabebuiaimpetiginosa,Ipêroxo
+15420,Tabebuiaimpetiginosa,Iproxo
+15421,Tabebuiaimpetiginosa,Ipeúna
+15422,Tabebuiaimpetiginosa,Piúvapreta
+15423,Tabebuiaimpetiginosa,Ipêcomum
+15424,Tabebuiaimpetiginosa,Paudarcorosa
+15425,Tabebuiaincana,Ipamarelo
+15426,Tabebuiaincana,Ipêamarelo
+15427,Tabebuiainsignisinsignis,Ébanoamarelo
+15428,Tabebuiainsignisinsignis,Uruparaíba
+15429,Tabebuiainsignisinsignis,Paudarco
+15430,Tabebuiainsignisinsignis,Taipoca
+15431,Tabebuiainsignisinsignis,Ipêtabaco
+15432,Tabebuiaipe,Ipê
+15433,Tabebuiaipe,Ip
+15434,Tabebuiaipe,semnomecomum
+15435,Tabebuiaochracea,Ipêcascudo
+15436,Tabebuiaochracea,Ipêdocampo
+15437,Tabebuiaochracea,Caraíba
+15438,Tabebuiaochracea,Caroba
+15439,Tabebuiaochracea,Ip
+15440,Tabebuiaochracea,Paudarcodocampo
+15441,Tabebuiaochracea,Tauaridocampo
+15442,Tabebuiaochracea,Tarumã
+15443,Tabebuiaochracea,Ipêpardo
+15444,Tabebuiaochracea,Ipêamarelo
+15445,Tabebuiaochracea,Paudarco
+15446,Tabebuiaochracea,Peúvaroxa
+15447,Tabebuiaochracea,Piúnadocampo
+15448,Tabebuiaochracea,Ipê
+15449,Tabebuiaochracea,Ipêdocerrado
+15450,Tabebuiaochracea,Piúva
+15451,Tabebuiapulcherrima,Ipê
+15452,Tabebuiapulcherrima,Ipêamarelo
+15453,Tabebuiapulcherrima,Ip
+15454,Tabebuiarigida,Ipê
+15455,Tabebuiarigida,Ipêamarelo
+15456,Tabebuiarigida,Ip
+15457,Tabebuiaroseoalba,Paudarco
+15458,Tabebuiaroseoalba,Peroba
+15459,Tabebuiaroseoalba,Ipêrosa
+15460,Tabebuiaroseoalba,Ipêbranco
+15461,Tabebuiaroseoalba,Ipê
+15462,Tabebuiaroseoalba,Arapoca
+15463,Tabebuiaserratifolia,Peúva
+15464,Tabebuiaserratifolia,Piúva
+15465,Tabebuiaserratifolia,Ipeúna
+15466,Tabebuiaserratifolia,Morototó
+15467,Tabebuiaserratifolia,Ipamarelo
+15468,Tabebuiaserratifolia,Madiocaí
+15469,Tabebuiaserratifolia,Ipêroxo
+15470,Tabebuiaserratifolia,Ipêpardo
+15471,Tabebuiaserratifolia,Iproxo
+15472,Tabebuiaserratifolia,Opa
+15473,Tabebuiaserratifolia,Ipêdentedecão
+15474,Tabebuiaserratifolia,Piúvaamarela
+15475,Tabebuiaserratifolia,Ipêtabacoclaro
+15476,Tabebuiaserratifolia,Ipê
+15477,Tabebuiaserratifolia,Ipêovodemacuco
+15478,Tabebuiaserratifolia,Ipêtabaco
+15479,Tabebuiaserratifolia,Quinaquina
+15480,Tabebuiaserratifolia,Lapacho
+15481,Tabebuiaserratifolia,Morotot
+15482,Tabebuiaserratifolia,Ipêdocampo
+15483,Tabebuiaserratifolia,IpÃ
+15484,Tabebuiaserratifolia,Ipeúva
+15485,Tabebuiaserratifolia,Paudarco
+15486,Tabebuiaserratifolia,Piúna
+15487,Tabebuiaserratifolia,Paudarcoamarelo
+15488,Tabebuiaserratifolia,Ipêvermelho
+15489,Tabebuiaserratifolia,Ipêdocerrado
+15490,Tabebuiaserratifolia,Ip
+15491,Tabebuiaserratifolia,Ipêpreto
+15492,Tabebuiaserratifolia,Piúvadocharco
+15493,Tabebuiaserratifolia,Pauparatudo
+15494,Tabebuiaserratifolia,Paudarcodefloramarela
+15495,Tabebuiaserratifolia,Ipêferro
+15496,Tabebuiaserratifolia,Tamurátuíra
+15497,Tabebuiaserratifolia,Ipêamarelo
+15498,Tabebuiaserratifolia,Canelamandioca
+15499,Tabebuiaserratifolia,Ipêroxinho
+15500,Tabebuiaspp,Paudarcobranco
+15501,Tabebuiaspp,Perobacanela
+15502,Tabebuiaspp,Ipê
+15503,Tabebuiaspp,Ipêroxo
+15504,Tabebuiaspp,Ip
+15505,Tabebuiaspp,Ipêamarelo
+15506,Tabebuiaspp,Perobabranca
+15507,Tabebuiaspp,Perobaamarela
+15508,Tabebuiaspp,Iproxo
+15509,Tabebuiaspp,Açoitacavalo
+15510,Tabebuiaspp,Ipamarelo
+15511,Tabebuiaspp,Peroba
+15512,Tabebuiaspp,Camarão
+15513,Tabebuiaspp,Paudarcopardo
+15514,Tabebuiaspp,Paudarcotaipoca
+15515,Tabebuiaspp,Folhalarga
+15516,Tabebuiaspp,Maçarandubabranca
+15517,Tabebuiaspp,Embiratã
+15518,Tabebuiaspp,Ipêovodemacaco
+15519,Tabebuiaumbellata,Paudarco
+15520,Tabebuiaumbellata,Ipêamarelo
+15521,Tabebuiaumbellata,Ipêroxo
+15522,Tabebuiaumbellata,Aipê
+15523,Tabebuiaumbellata,Ipêamarelodobrejo
+15524,Tabebuiaumbellata,Ipêdobrejo
+15525,Tabebuiaumbellata,Ipê
+15526,Tabebuiaumbellata,Ip
+15527,Tabebuiaumbellata,Ipêrajado
+15528,Tabebuiavellosoi,Paudarco
+15529,Tabebuiavellosoi,Ipêamarelo
+15530,Tabebuiavellosoi,Ipê
+15531,Tabebuiavellosoi,Piúva
+15532,Tabebuiavellosoi,Ip
+15533,Tabebuiavellosoi,Quiarapaíba
+15534,Tabebuiavellosoi,Cavatã
+15535,Tabebuiavellosoi,Ipêcomum
+15536,Tabebuiavellosoi,Piúvaamarela
+15537,Tabebuiavellosoi,Ipêroxo
+15538,Tabebuiavellosoi,Ipêdefloramarela
+15539,Tabebuiavellosoi,Ipeúna
+17153,handroanthus impetiginosum,ipê-roxo
+17154,handroanthus ochraceus,ipê-folha-amarela
+17160,tabebuia avellanedae,Ipê amarelo
