@@ -8,4 +8,11 @@ The `transports.csv` columns account for:
 - 'id_product': id of the product type. It matches the column "id_product" in the file `products.csv`.
 - 'date': the transportation date.
 
-The jupyter notebook contains a code to build the Timber Trade Network and to compute the $k$ most likely supply chains of a given enterprise.
+The jupyter notebook contains a code to build the _Timber Trade Network_ and to compute the _$k$ most likely supply chains_ of a given enterprise.
+
+The complete description of what a _Timber Trade Network_ and _$k$ most likely supply chains_ are can be found in the paper:
+
+L.G. Nonato, V. Russo, B. Costa, F. Moreno-Vera, G. Toledo, O. de Jesus, R. Vieira, M. Lentini, J. Poco, and L.G. Nonato.
+[Analyzing Timber Trade in Brazil: assessing timber networks and supply chains](https://www.researchsquare.com/article/rs-4580916/v1), Researchsquare, 2024.
+
+Please, acknowledge the paper when using the data or code.
