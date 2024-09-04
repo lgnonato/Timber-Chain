@@ -17,6 +17,8 @@ The demo has been tested with Python 3.10.9 and the following package versions:
 - tqdm 4.64.1
 - plotly 5.9.0
 
+To run the demo, simply open the file `Timber Chain Demo Notebook.ipynb` in a Jupyter Notebook and run the cells. 
+
 A complete description of what a _Timber Trade Network_ and the _k most likely supply chains_ are can be found in the paper:
 
 _L.G. Nonato, V. Russo, B. Costa, F. Moreno-Vera, G. Toledo, O. de Jesus, R. Vieira, M. Lentini, J. Poco, and L.G. Nonato.
